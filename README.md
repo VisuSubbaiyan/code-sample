@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Regarding the coding challenge
-  What are things I will improve in current code
+  What are the things I will improve in current code, if I get more time
   - Setup express mock server -> fetch data with axios async function in Segments.js componentDidMount method -> setState(data)
   - Install sass -> declare variable for font, svg icons, color codes -> import in all the components
   
