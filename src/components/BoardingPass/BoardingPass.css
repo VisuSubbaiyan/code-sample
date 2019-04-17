@@ -1,0 +1,22 @@
+
+.card.boarding-pass {
+  display: block;
+  padding: 5px;
+}
+.card .flight-details, .card .boarding-details, .card .gate-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  align-items: center;
+}
+
+.card .boarding-details {
+  background: #fff;
+}
+
+.card .ontime {
+  border-radius: 3px;
+  padding: 3px;
+  color: #eeeeee;
+  background: green;
+}

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BoardingPass /> should render correctly according to props 1`] = `
+"<div class=\\"segment\\">
+  <h3 class=\\"time\\">15: 13</h3>
+  <div class=\\"card boarding-pass\\">
+    <div class=\\"flight-details\\">
+      <div>LH2031</div>
+      <div class=\\"boarding-time\\">
+        <h3 class=\\"time\\">15: 13</h3>
+      </div>
+    </div>
+    <div class=\\"boarding-details\\">
+      <h2>TXL</h2>
+      <div><i class=\\"fa fa-plane\\"></i>
+      </div>
+      <h2>MUC</h2>
+    </div>
+    <div class=\\"gate-details\\"><span>Gate C12</span><span>Seat 12C</span><span class=\\"ontime\\">OnTime</span>
+    </div>
+  </div>
+</div>"
+`;

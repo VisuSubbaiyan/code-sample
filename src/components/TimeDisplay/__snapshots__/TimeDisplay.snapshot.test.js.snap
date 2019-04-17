@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TimeDisplay /> should render correctly according to props 1`] = `"<h3 class=\\"time\\">15: 13</h3>"`;

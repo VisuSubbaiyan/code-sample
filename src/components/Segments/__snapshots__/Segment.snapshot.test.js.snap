@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Ground /> should render correctly according to props 1`] = `
+"<div class=\\"segments\\">
+  <h2 class=\\"sub-heading\\">TXL - MUC</h2>
+  <div class=\\"segment segment-active no-top-padding\\">
+    <h3 class=\\"time\\">15: 13</h3>
+    <div class=\\"card\\">
+      <div><i class=\\"fa fa-bus\\"></i>
+      </div>
+      <div class=\\"title\\">
+        <div>Pick up from</div><span class=\\"highlight\\">Alte Schönhauser Straße 3, 10119 Berlin</span>
+      </div>
+    </div>
+  </div>
+  <div class=\\"segment\\">
+    <h3 class=\\"time\\">15: 13</h3>
+    <div class=\\"card\\">
+      <div><i class=\\"fa fa-plane-departure\\"></i>
+      </div>
+      <div class=\\"title\\">
+        <div><span class=\\"highlight\\">TXL</span> Airport</div>
+        <div class=\\"terminal-details\\"><span class=\\"highlight\\">Terminal C </span><span class=\\"status-busy\\">Busy</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class=\\"segment\\">
+    <h3 class=\\"time\\">15: 13</h3>
+    <div class=\\"card boarding-pass\\">
+      <div class=\\"flight-details\\">
+        <div>LH2031</div>
+        <div class=\\"boarding-time\\">
+          <h3 class=\\"time\\">15: 13</h3>
+        </div>
+      </div>
+      <div class=\\"boarding-details\\">
+        <h2>TXL</h2>
+        <div><i class=\\"fa fa-plane\\"></i>
+        </div>
+        <h2>MUC</h2>
+      </div>
+      <div class=\\"gate-details\\"><span>Gate C12</span><span>Seat 12C</span><span class=\\"ontime\\">OnTime</span>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

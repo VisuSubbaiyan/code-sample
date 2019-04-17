@@ -1,0 +1,15 @@
+.header {
+  background: #05164d;
+  padding: 10px;
+  color: #cccccc;
+  display: flex;
+  align-items: center;
+}
+.header .fa {
+  font-size: 36px;
+}
+
+.header h1.heading {
+  margin: 0;
+  padding: 10px 16px;
+}

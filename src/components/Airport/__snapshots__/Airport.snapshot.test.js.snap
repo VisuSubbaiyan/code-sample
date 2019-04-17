@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Airport /> should render correctly according to props 1`] = `
+"<div class=\\"segment\\">
+  <h3 class=\\"time\\">15: 13</h3>
+  <div class=\\"card\\">
+    <div><i class=\\"fa fa-plane-departure\\"></i>
+    </div>
+    <div class=\\"title\\">
+      <div><span class=\\"highlight\\">Alte Schönhauser Straße 3, 10119 Berlin</span> Airport</div>
+      <div
+      class=\\"terminal-details\\"><span class=\\"highlight\\">Terminal C </span><span class=\\"status-busy\\">Busy</span>
+    </div>
+  </div>
+</div>
+</div>"
+`;

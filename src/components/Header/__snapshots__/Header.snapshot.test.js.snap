@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render correctly according to props 1`] = `
+"<header class=\\"header\\">
+  <div><i class=\\"fa fa-angle-left\\"></i>
+  </div>
+  <h1 class=\\"heading\\">sample Text</h1>
+</header>"
+`;
