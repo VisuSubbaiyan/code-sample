@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Ground /> should render correctly according to props 1`] = `
+"<div class=\\"segment undefined\\">
+  <h3 class=\\"time\\">15: 13</h3>
+  <div class=\\"card\\">
+    <div><i class=\\"fa fa-bus\\"></i>
+    </div>
+    <div class=\\"title\\">
+      <div>Pick up from</div><span class=\\"highlight\\">TXL</span>
+    </div>
+  </div>
+</div>"
+`;

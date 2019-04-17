@@ -1,0 +1,88 @@
+.segments {
+  background: #eeeeee;
+  padding: 20px;
+  height: 100vh;
+}
+
+.sub-heading {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.segment {
+  text-align: left;
+  border-left: 2px solid #06A2F5;
+}
+
+.segment .time {
+  padding: 15px 10px;
+  margin: 0;
+}
+
+.no-top-padding .time {
+  padding-top: 0;
+}
+
+/* .segment.no-padding .time {
+  padding-top: 0;
+} */
+
+.segment .time::before {
+  height: 12px;
+  width: 12px;
+  margin-left: -17px;
+  background: #06A2F5;
+  border-radius: 50%;
+  position: absolute;
+  content: '';
+}
+
+.segment-active {
+  border-color: #05164d;
+}
+.segment-active .time::before {
+  height: 12px;
+  width: 12px;
+  margin-left: -17px;
+  background: #05164d;
+  border-radius: 50%;
+  position: absolute;
+  content: '';
+}
+
+.card {
+  padding: 16px;
+  background: #06A2F5;
+  color: #05164d;
+  display: flex;
+}
+
+.segment-active .card {
+  background: #05164d;
+  color: #eeeeee;
+}
+
+.card .title {
+  padding-left: 10px;
+}
+
+.card .terminal-details {
+  padding-top: 10px;
+}
+
+.card .status-busy {
+  padding-left: 10px;
+  color: #ff0000;
+}
+
+.card .right-segment {
+  width: 60%;
+}
+
+.card .fa {
+  font-size: 24px;
+}
+
+.highlight {
+  color: #ffad00;
+}
